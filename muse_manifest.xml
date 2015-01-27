@@ -1,0 +1,88 @@
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1422378881070">
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="master_c-mestre.css" crc="3865908464" ref="empresa:servicos:faqs:contato:portfolio:cliente-1:index:web"/>
+    <file name="empresa.css" crc="3963345256" ref="empresa"/>
+    <file name="servicos.css" crc="358159295" ref="servicos"/>
+    <file name="faqs.css" crc="109846027" ref="faqs"/>
+    <file name="contato.css" crc="109846027" ref="contato"/>
+    <file name="portfolio.css" crc="4225330057" ref="portfolio"/>
+    <file name="cliente-1.css" crc="243309840" ref="cliente-1"/>
+    <file name="index.css" crc="511505051" ref="index"/>
+    <file name="web.css" crc="109846027" ref="web"/>
+  </folder>
+  <folder name="fonts">
+    <file name="spoon-extralightitalic.woff" crc="4020289848"/>
+    <file name="spoon-extralightitalic.eot" crc="182368032"/>
+    <file name="spoon-extralight.woff" crc="251691760"/>
+    <file name="spoon-extralight.eot" crc="3964622928"/>
+    <file name="spoon-light.woff" crc="3883324741"/>
+    <file name="spoon-light.eot" crc="3813180072"/>
+    <file name="spoon-bold.woff" crc="3825077942"/>
+    <file name="spoon-bold.eot" crc="256695022"/>
+    <file name="spoon-hairline.woff" crc="3878830286"/>
+    <file name="spoon-hairline.eot" crc="197818134"/>
+    <file name="spoon-regular.woff" crc="360963996"/>
+    <file name="spoon-regular.eot" crc="3976452281"/>
+    <file name="spoon-semibolditalic.woff" crc="3916481275"/>
+    <file name="spoon-semibolditalic.eot" crc="4137617973"/>
+    <file name="spoon-regularitalic.woff" crc="3839907509"/>
+    <file name="spoon-regularitalic.eot" crc="4244500083"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:empresa:servicos:portfolio:web:cliente-1:faqs:contato"/>
+    <file name="museutils.js" crc="3777594392" ref="index:empresa:servicos:portfolio:web:cliente-1:faqs:contato"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index:empresa"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:empresa:servicos:portfolio:web:cliente-1:faqs:contato"/>
+    <file name="webpro.js" crc="474087315" ref="index:empresa:servicos:portfolio:web:cliente-1:faqs:contato"/>
+    <file name="musewpdisclosure.js" crc="3952359668" ref="index:empresa:servicos:portfolio:web:cliente-1:faqs:contato"/>
+    <file name="pie.js" crc="3827607177" ref="index:empresa"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="index:empresa:portfolio:cliente-1"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="index:empresa:portfolio:cliente-1"/>
+    <file name="touchswipe.js" crc="100683906" ref="index:empresa:portfolio:cliente-1"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="index"/>
+    <file name="form_check.php" crc="306825315" ref="index"/>
+    <file name="form_throttle.php" crc="4293816517" ref="index"/>
+    <file name="form_process.php" crc="109188895" ref="index"/>
+    <file name="form-u2259.php" crc="285992502" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home2_mobile.jpg" crc="229282476" ref="index"/>
+    <file name="logo_mini_top.png" crc="4220544125" ref="index:empresa:servicos:portfolio:web:cliente-1:faqs:contato"/>
+    <file name="fundo_clientes.png" crc="495483244" ref="index"/>
+    <file name="detalhe2.png" crc="75744086" ref="index"/>
+    <file name="divisa.jpg" crc="3919502049" ref="index"/>
+    <file name="criativelab.png" crc="4055134273" ref="index:servicos"/>
+    <file name="webmkt.png" crc="3769968491" ref="index"/>
+    <file name="webdev.png" crc="35057460" ref="index"/>
+    <file name="websolution.png" crc="262292521" ref="index"/>
+    <file name="detalhe1.png" crc="3968957356" ref="index"/>
+    <file name="icone_prog.png" crc="3923400611" ref="index"/>
+    <file name="icone_rocket.png" crc="319060382" ref="index"/>
+    <file name="icones_desfoque2.png" crc="4055771371" ref="index"/>
+    <file name="icone_note.png" crc="4238363220" ref="index"/>
+    <file name="icone_lamp.png" crc="4012329104" ref="index"/>
+    <file name="icones_desfoque.png" crc="145439336" ref="index"/>
+    <file name="divisa2.jpg" crc="4223394476" ref="index"/>
+    <file name="u2270-17.png" crc="332239346" ref="index"/>
+    <file name="u2270-17-r.png" crc="3955843765" ref="index"/>
+    <file name="u2270-17-m.png" crc="45456002" ref="index"/>
+    <file name="u2270-17-fs.png" crc="467469687" ref="index"/>
+    <file name="empresa_fundo.jpg" crc="232224965" ref="empresa"/>
+    <file name="detalhe-nos.jpg" crc="3844679684" ref="empresa"/>
+    <file name="44ab84cd5dcc89db577c44ba1c9e611e-u2319-fr.jpg" crc="4104297089" ref="empresa"/>
+    <file name="2cd5c13ed33fe7143c5293f8f6d04dc0-u2320-fr.jpg" crc="424506737" ref="empresa"/>
+    <file name="538e0fe8c2a279e686f7a5dbae69ed04-u2321-fr.jpg" crc="4215559522" ref="empresa"/>
+    <file name="servicos_1.jpg" crc="25454218" ref="servicos"/>
+    <file name="detalhe_port_aberto.png" crc="4141395598" ref="cliente-1"/>
+    <file name="descricao-projeto.jpg" crc="4182404416" ref="cliente-1"/>
+  </folder>
+  <file name="index.html" crc="3949631445" mt="1422378876986" redirect="true"/>
+  <file name="empresa.html" crc="59268718" mt="1422378853006" redirect="true"/>
+  <file name="servicos.html" crc="4139361372" mt="1422378853004" redirect="true"/>
+  <file name="portfolio.html" crc="3870439818" mt="1422378853002" redirect="true"/>
+  <file name="web.html" crc="4196867175" mt="1422378853000" redirect="true"/>
+  <file name="cliente-1.html" crc="4059686331" mt="1422378877082" redirect="true"/>
+  <file name="faqs.html" crc="5682668" mt="1422378852995" redirect="true"/>
+  <file name="contato.html" crc="3967833227" mt="1422378852931" redirect="true"/>
+</manifest>
