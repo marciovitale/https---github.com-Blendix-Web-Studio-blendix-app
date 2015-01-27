@@ -4,8 +4,8 @@
 
 .version.cliente_1 /* version checker */
 {
-	color: #000014;
-	background-color: #7DFCFC;
+	color: #000008;
+	background-color: #F92F2E;
 }
 
 @-ms-viewport
@@ -715,18 +715,18 @@
 
 @font-face
 {
-	font-family: '__Spoon-Bold_5';
-	src: url('../fonts/spoon-bold.eot');
-	src: local('☺'), url('../fonts/spoon-bold.woff') format('woff');
+	font-family: '__Spoon-Regular_5';
+	src: url('../fonts/spoon-regular.eot');
+	src: local('☺'), url('../fonts/spoon-regular.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face
 {
-	font-family: '__Spoon-Regular_5';
-	src: url('../fonts/spoon-regular.eot');
-	src: local('☺'), url('../fonts/spoon-regular.woff') format('woff');
+	font-family: '__Spoon-Bold_5';
+	src: url('../fonts/spoon-bold.eot');
+	src: local('☺'), url('../fonts/spoon-bold.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 }

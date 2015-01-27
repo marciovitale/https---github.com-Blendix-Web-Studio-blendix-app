@@ -4,8 +4,8 @@
 
 .version.empresa /* version checker */
 {
-	color: #0000ED;
-	background-color: #CF9844;
+	color: #0000F1;
+	background-color: #0D8042;
 }
 
 @-ms-viewport
@@ -535,8 +535,8 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 88px;
-	left: 389px;
+	margin-top: 170px;
+	left: 107px;
 }
 
 #pu2298,#pu2299
@@ -1016,18 +1016,18 @@
 
 @font-face
 {
-	font-family: '__Spoon-Regular_5';
-	src: url('../fonts/spoon-regular.eot');
-	src: local('☺'), url('../fonts/spoon-regular.woff') format('woff');
+	font-family: '__Spoon-Bold_5';
+	src: url('../fonts/spoon-bold.eot');
+	src: local('☺'), url('../fonts/spoon-bold.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face
 {
-	font-family: '__Spoon-Bold_5';
-	src: url('../fonts/spoon-bold.eot');
-	src: local('☺'), url('../fonts/spoon-bold.woff') format('woff');
+	font-family: '__Spoon-Regular_5';
+	src: url('../fonts/spoon-regular.eot');
+	src: local('☺'), url('../fonts/spoon-regular.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 }

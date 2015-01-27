@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.blendix.com.br/fonts/spoon-hairline.woff</loc>
+    <loc>http://www.blendix.com.br/fonts/spoon-bold.woff</loc>
     <lastmod>2015-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.blendix.com.br/fonts/spoon-hairline.eot</loc>
-    <lastmod>2015-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.blendix.com.br/fonts/spoon-extralightitalic.woff</loc>
-    <lastmod>2015-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.blendix.com.br/fonts/spoon-extralightitalic.eot</loc>
+    <loc>http://www.blendix.com.br/fonts/spoon-bold.eot</loc>
     <lastmod>2015-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -37,6 +25,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.blendix.com.br/fonts/spoon-hairline.woff</loc>
+    <lastmod>2015-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.blendix.com.br/fonts/spoon-hairline.eot</loc>
+    <lastmod>2015-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.blendix.com.br/fonts/spoon-light.woff</loc>
+    <lastmod>2015-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.blendix.com.br/fonts/spoon-light.eot</loc>
+    <lastmod>2015-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.blendix.com.br/fonts/spoon-regular.woff</loc>
     <lastmod>2015-01-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -44,30 +56,6 @@
   </url>
   <url>
     <loc>http://www.blendix.com.br/fonts/spoon-regular.eot</loc>
-    <lastmod>2015-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.blendix.com.br/fonts/spoon-bold.woff</loc>
-    <lastmod>2015-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.blendix.com.br/fonts/spoon-bold.eot</loc>
-    <lastmod>2015-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.blendix.com.br/fonts/spoon-semibolditalic.woff</loc>
-    <lastmod>2015-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.blendix.com.br/fonts/spoon-semibolditalic.eot</loc>
     <lastmod>2015-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -85,13 +73,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.blendix.com.br/fonts/spoon-light.woff</loc>
+    <loc>http://www.blendix.com.br/fonts/spoon-extralightitalic.woff</loc>
     <lastmod>2015-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.blendix.com.br/fonts/spoon-light.eot</loc>
+    <loc>http://www.blendix.com.br/fonts/spoon-extralightitalic.eot</loc>
+    <lastmod>2015-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.blendix.com.br/fonts/spoon-semibolditalic.woff</loc>
+    <lastmod>2015-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.blendix.com.br/fonts/spoon-semibolditalic.eot</loc>
     <lastmod>2015-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
